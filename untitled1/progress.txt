@@ -1,0 +1,7 @@
+Multiplier: 1
+Golds: 0
+BossesDefeated: 0
+CurrentStage: 1
+BaseHealth: 20
+NewPrice1: 100
+NewPrice2: 500
