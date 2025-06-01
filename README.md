@@ -1,0 +1,2 @@
+# DefeatTheBiden
+Projekt ke zkoušce
